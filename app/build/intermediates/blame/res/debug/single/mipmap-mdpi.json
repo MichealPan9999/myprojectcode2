@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\mystudiocode\\code1\\Projectcode\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\tab_my_normal.png",
+        "source": "E:\\mystudiocode\\code1\\Projectcode\\app\\src\\main\\res\\mipmap-mdpi\\tab_my_normal.png"
+    },
+    {
+        "merged": "E:\\mystudiocode\\code1\\Projectcode\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\tab_message_pressed.png",
+        "source": "E:\\mystudiocode\\code1\\Projectcode\\app\\src\\main\\res\\mipmap-mdpi\\tab_message_pressed.png"
+    },
+    {
+        "merged": "E:\\mystudiocode\\code1\\Projectcode\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\tab_message_normal.png",
+        "source": "E:\\mystudiocode\\code1\\Projectcode\\app\\src\\main\\res\\mipmap-mdpi\\tab_message_normal.png"
+    },
+    {
+        "merged": "E:\\mystudiocode\\code1\\Projectcode\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "E:\\mystudiocode\\code1\\Projectcode\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\mystudiocode\\code1\\Projectcode\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\tab_channel_pressed.png",
+        "source": "E:\\mystudiocode\\code1\\Projectcode\\app\\src\\main\\res\\mipmap-mdpi\\tab_channel_pressed.png"
+    },
+    {
+        "merged": "E:\\mystudiocode\\code1\\Projectcode\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\tab_better_pressed.png",
+        "source": "E:\\mystudiocode\\code1\\Projectcode\\app\\src\\main\\res\\mipmap-mdpi\\tab_better_pressed.png"
+    },
+    {
+        "merged": "E:\\mystudiocode\\code1\\Projectcode\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\tab_better_normal.png",
+        "source": "E:\\mystudiocode\\code1\\Projectcode\\app\\src\\main\\res\\mipmap-mdpi\\tab_better_normal.png"
+    },
+    {
+        "merged": "E:\\mystudiocode\\code1\\Projectcode\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\tab_channel_normal.png",
+        "source": "E:\\mystudiocode\\code1\\Projectcode\\app\\src\\main\\res\\mipmap-mdpi\\tab_channel_normal.png"
+    },
+    {
+        "merged": "E:\\mystudiocode\\code1\\Projectcode\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\tab_my_pressed.png",
+        "source": "E:\\mystudiocode\\code1\\Projectcode\\app\\src\\main\\res\\mipmap-mdpi\\tab_my_pressed.png"
+    }
+]

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="str_arr_language_vals">
+        <item>Anglais</item>
+        <item>Chinois simplifié</item>
+        <item>Chinois traditionnel</item>
+        <item>Français</item>
+    </string-array>
+    <string name="app_name">Projectcode</string>
+    <string name="btn_start">Commencer</string>
+</resources>

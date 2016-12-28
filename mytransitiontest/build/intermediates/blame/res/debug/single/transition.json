@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\mystudiocode\\code1\\Projectcode\\mytransitiontest\\build\\intermediates\\res\\merged\\debug\\transition\\changebounds_fadeout_sequential.xml",
+        "source": "E:\\mystudiocode\\code1\\Projectcode\\mytransitiontest\\src\\main\\res\\transition\\changebounds_fadeout_sequential.xml"
+    },
+    {
+        "merged": "E:\\mystudiocode\\code1\\Projectcode\\mytransitiontest\\build\\intermediates\\res\\merged\\debug\\transition\\changebounds.xml",
+        "source": "E:\\mystudiocode\\code1\\Projectcode\\mytransitiontest\\src\\main\\res\\transition\\changebounds.xml"
+    },
+    {
+        "merged": "E:\\mystudiocode\\code1\\Projectcode\\mytransitiontest\\build\\intermediates\\res\\merged\\debug\\transition\\transitions_mgr.xml",
+        "source": "E:\\mystudiocode\\code1\\Projectcode\\mytransitiontest\\src\\main\\res\\transition\\transitions_mgr.xml"
+    },
+    {
+        "merged": "E:\\mystudiocode\\code1\\Projectcode\\mytransitiontest\\build\\intermediates\\res\\merged\\debug\\transition\\changebounds_fadein_together.xml",
+        "source": "E:\\mystudiocode\\code1\\Projectcode\\mytransitiontest\\src\\main\\res\\transition\\changebounds_fadein_together.xml"
+    }
+]

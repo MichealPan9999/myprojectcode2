@@ -1,0 +1,465 @@
+[
+    {
+        "outputFile": "E:\\mystudiocode\\code1\\Projectcode\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 19,
+                    "endOffset": 240
+                },
+                "from": {
+                    "file": "E:\\mystudiocode\\code1\\Projectcode\\app\\src\\main\\res\\values-en\\strings_us.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endLine": 8,
+                        "endColumn": 19,
+                        "endOffset": 297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 245,
+                    "endColumn": 48,
+                    "endOffset": 289
+                },
+                "from": {
+                    "file": "E:\\mystudiocode\\code1\\Projectcode\\app\\src\\main\\res\\values-en\\strings_us.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 48,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 294,
+                    "endColumn": 43,
+                    "endOffset": 333
+                },
+                "from": {
+                    "file": "E:\\mystudiocode\\code1\\Projectcode\\app\\src\\main\\res\\values-en\\strings_us.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 303,
+                        "endColumn": 43,
+                        "endOffset": 342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 338,
+                    "endColumn": 61,
+                    "endOffset": 395
+                },
+                "from": {
+                    "file": "E:\\mystudiocode\\code1\\Projectcode\\app\\src\\main\\res\\values-en\\strings_us.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 685,
+                        "endColumn": 61,
+                        "endOffset": 742
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 400,
+                    "endColumn": 52,
+                    "endOffset": 448
+                },
+                "from": {
+                    "file": "E:\\mystudiocode\\code1\\Projectcode\\app\\src\\main\\res\\values-en\\strings_us.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 802,
+                        "endColumn": 52,
+                        "endOffset": 850
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 453,
+                    "endColumn": 70,
+                    "endOffset": 519
+                },
+                "from": {
+                    "file": "E:\\mystudiocode\\code1\\Projectcode\\app\\src\\main\\res\\values-en\\strings_us.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1407,
+                        "endColumn": 70,
+                        "endOffset": 1473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 524,
+                    "endColumn": 148,
+                    "endOffset": 668
+                },
+                "from": {
+                    "file": "E:\\mystudiocode\\code1\\Projectcode\\app\\src\\main\\res\\values-en\\strings_us.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1479,
+                        "endColumn": 148,
+                        "endOffset": 1623
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 673,
+                    "endColumn": 43,
+                    "endOffset": 712
+                },
+                "from": {
+                    "file": "E:\\mystudiocode\\code1\\Projectcode\\app\\src\\main\\res\\values-en\\strings_us.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 856,
+                        "endColumn": 43,
+                        "endOffset": 895
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 717,
+                    "endColumn": 41,
+                    "endOffset": 754
+                },
+                "from": {
+                    "file": "E:\\mystudiocode\\code1\\Projectcode\\app\\src\\main\\res\\values-en\\strings_us.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 991,
+                        "endColumn": 41,
+                        "endOffset": 1028
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 759,
+                    "endColumn": 53,
+                    "endOffset": 808
+                },
+                "from": {
+                    "file": "E:\\mystudiocode\\code1\\Projectcode\\app\\src\\main\\res\\values-en\\strings_us.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 630,
+                        "endColumn": 53,
+                        "endOffset": 679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 813,
+                    "endColumn": 88,
+                    "endOffset": 897
+                },
+                "from": {
+                    "file": "E:\\mystudiocode\\code1\\Projectcode\\app\\src\\main\\res\\values-en\\strings_us.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 901,
+                        "endColumn": 88,
+                        "endOffset": 985
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 902,
+                    "endColumn": 61,
+                    "endOffset": 959
+                },
+                "from": {
+                    "file": "E:\\mystudiocode\\code1\\Projectcode\\app\\src\\main\\res\\values-en\\strings_us.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 567,
+                        "endColumn": 61,
+                        "endOffset": 624
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 964,
+                    "endColumn": 49,
+                    "endOffset": 1009
+                },
+                "from": {
+                    "file": "E:\\mystudiocode\\code1\\Projectcode\\app\\src\\main\\res\\values-en\\strings_us.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 404,
+                        "endColumn": 49,
+                        "endOffset": 449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1014,
+                    "endColumn": 53,
+                    "endOffset": 1063
+                },
+                "from": {
+                    "file": "E:\\mystudiocode\\code1\\Projectcode\\app\\src\\main\\res\\values-en\\strings_us.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 455,
+                        "endColumn": 53,
+                        "endOffset": 504
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1068,
+                    "endColumn": 55,
+                    "endOffset": 1119
+                },
+                "from": {
+                    "file": "E:\\mystudiocode\\code1\\Projectcode\\app\\src\\main\\res\\values-en\\strings_us.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endColumn": 55,
+                        "endOffset": 561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1124,
+                    "endColumn": 108,
+                    "endOffset": 1228
+                },
+                "from": {
+                    "file": "E:\\mystudiocode\\code1\\Projectcode\\app\\src\\main\\res\\values-en\\strings_us.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1295,
+                        "endColumn": 108,
+                        "endOffset": 1399
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1233,
+                    "endColumn": 87,
+                    "endOffset": 1316
+                },
+                "from": {
+                    "file": "E:\\mystudiocode\\code1\\Projectcode\\app\\src\\main\\res\\values-en\\strings_us.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1116,
+                        "endColumn": 87,
+                        "endOffset": 1199
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1321,
+                    "endColumn": 80,
+                    "endOffset": 1397
+                },
+                "from": {
+                    "file": "E:\\mystudiocode\\code1\\Projectcode\\app\\src\\main\\res\\values-en\\strings_us.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1034,
+                        "endColumn": 80,
+                        "endOffset": 1110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1402,
+                    "endColumn": 88,
+                    "endOffset": 1486
+                },
+                "from": {
+                    "file": "E:\\mystudiocode\\code1\\Projectcode\\app\\src\\main\\res\\values-en\\strings_us.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1205,
+                        "endColumn": 88,
+                        "endOffset": 1289
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1491,
+                    "endColumn": 82,
+                    "endOffset": 1569
+                },
+                "from": {
+                    "file": "E:\\mystudiocode\\code1\\Projectcode\\app\\src\\main\\res\\values-en\\strings_us.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1949,
+                        "endColumn": 82,
+                        "endOffset": 2027
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1574,
+                    "endColumn": 90,
+                    "endOffset": 1660
+                },
+                "from": {
+                    "file": "E:\\mystudiocode\\code1\\Projectcode\\app\\src\\main\\res\\values-en\\strings_us.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1790,
+                        "endColumn": 90,
+                        "endOffset": 1876
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1665,
+                    "endColumn": 88,
+                    "endOffset": 1749
+                },
+                "from": {
+                    "file": "E:\\mystudiocode\\code1\\Projectcode\\app\\src\\main\\res\\values-en\\strings_us.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1629,
+                        "endColumn": 88,
+                        "endOffset": 1713
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1754,
+                    "endColumn": 96,
+                    "endOffset": 1846
+                },
+                "from": {
+                    "file": "E:\\mystudiocode\\code1\\Projectcode\\app\\src\\main\\res\\values-en\\strings_us.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2118,
+                        "endColumn": 96,
+                        "endOffset": 2210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1851,
+                    "endColumn": 52,
+                    "endOffset": 1899
+                },
+                "from": {
+                    "file": "E:\\mystudiocode\\code1\\Projectcode\\app\\src\\main\\res\\values-en\\strings_us.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 748,
+                        "endColumn": 52,
+                        "endOffset": 796
+                    }
+                }
+            }
+        ]
+    }
+]

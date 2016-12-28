@@ -27,6 +27,7 @@ public class EditListenerActivity extends Activity {
         btn_login.setFocusable(false);
         btn_login.setEnabled(false);
         btn_login.setClickable(false);
+
         edt_pwd.addTextChangedListener(new TextWatcher() {
             @Override
             public void beforeTextChanged(CharSequence s, int start, int count, int after) {

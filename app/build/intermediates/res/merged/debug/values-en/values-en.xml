@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="str_arr_language_vals">
+        <item>English</item>
+        <item>Chinese</item>
+        <item>Chinese TaiWan</item>
+        <item>French</item>
+    </string-array>
+    <string name="app_name">Projectcode</string>
+    <string name="btn_start">start</string>
+    <string name="check_ip_failure">Verify IP failed</string>
+    <string name="connect_no">Not connected</string>
+    <string name="dhcp_setting_sucess">DHCP setup successful.</string>
+    <string name="dhcp_setting_sucess_tip">DHCP network has been set up. Please make sure the LAN cable is connected to the back of the TV.</string>
+    <string name="net_close">Close</string>
+    <string name="net_save">Save</string>
+    <string name="net_status">Signal Strenth</string>
+    <string name="not_support_security_hint">"Encryption type does not support"</string>
+    <string name="signal_status_excellent">Excellent</string>
+    <string name="signal_status_low">Low</string>
+    <string name="signal_status_middle">Good</string>
+    <string name="signal_status_strong">Better</string>
+    <string name="wifi_description_description_success">Your TV id already connected to the network</string>
+    <string name="wifi_failed_connect_error">"Cannot connect wireless network"</string>
+    <string name="wifi_failed_connect_message">"Cannot connect network"</string>
+    <string name="wifi_failed_forget_message">"Cannot cancel the saved network"</string>
+    <string name="wifi_ip_settings_invalid_dns">Enter a valid DNS address</string>
+    <string name="wifi_ip_settings_invalid_gateway">Enter a valid gateway address</string>
+    <string name="wifi_ip_settings_invalid_ip_address">Enter a valid IP address</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">Enter a vaild netmask</string>
+    <string name="wifi_net_endtip"> network</string>
+</resources>
