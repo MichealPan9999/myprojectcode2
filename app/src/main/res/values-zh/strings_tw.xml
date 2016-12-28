@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Projectcode</string>
+    <string-array name="str_arr_language_vals">
+        <item>英 語</item>
+        <item>簡體中文</item>
+        <item>繁體中文</item>
+        <item>法語</item>
+    </string-array>
+    <string name="btn_start">開始</string>
+</resources>
